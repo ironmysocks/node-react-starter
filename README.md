@@ -1,7 +1,7 @@
-### node-react-starter
+# node-react-starter
 This is boilerplate for an app with Node backend API and a React frontend.
 
-# Install It
+### Install
 ```
 git clone https://github.com/ironmysocks/node-react-starter
 cd node-react-starter
@@ -10,7 +10,7 @@ cd client
 npm install
 ```
 
-# Get Started
+### Start
 Open two terminal windows. In the first window, do:
 ```
 npm run server
