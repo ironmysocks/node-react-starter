@@ -1,9 +1,24 @@
+### node-react-starter
 This is boilerplate for an app with Node backend API and a React frontend.
 
-After installing the code in your project directory, run npm install to download the dependencies.
+# Install It
+```
+git clone https://github.com/ironmysocks/node-react-starter
+cd node-react-starter
+npm install
+cd client
+npm install
+```
 
-To run the project, start two terminal windows.
-Run in the first window: npm run server
-Run in the second window: npm run client
+# Get Started
+Open two terminal windows. In the first window, do:
+```
+npm run server
+```
 
-Navigate to http://localhost:3000 in your browser to see the app and get started on your project.
+In the second window, do:
+```
+npm run client
+```
+
+Then go to http://localhost:3000 in your browser to see the app running.
